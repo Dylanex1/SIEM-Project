@@ -5,3 +5,5 @@ Welcome! This project will contain me building a Log Generator, Log parser, Dete
 
 This project for programming will be in python for its simplicity and wide use for log analysis and digestion/parsing.
 
+* February 17th 
+Implementing LogParser for syslogs of many kinds
