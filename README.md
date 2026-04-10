@@ -1,9 +1,6 @@
 # SIEM Project
 
 
-Welcome! This project will contain me building a Log Generator, Log parser, Detection Engine and a spot to visiualize what is going on it will most likely be a dashboard.
+Welcome! This is a SIEM project where I will use Splunk and preform some log analysis and use python to preform log generation and run some simulations on what the SIEM will provide such as Brute Force attacks or alerts on escalation and more!
+This project will grow as I construct new ideas so I will keep this README up to date.
 
-This project for programming will be in python for its simplicity and wide use for log analysis and digestion/parsing.
-
-* February 17th 
-Implementing LogParser for syslogs of many kinds
